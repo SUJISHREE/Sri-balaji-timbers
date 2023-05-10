@@ -1,0 +1,19 @@
+*{
+    scrollbar-width: none;
+}
+*::-webkit-scrollbar {
+    display: none;
+}
+
+.list-group .active{
+    background-color: rgb(79, 89, 199);
+}
+
+.list-group-item{
+    border: none;
+    border-radius: 20px;
+}
+
+.dropdown-item .active{
+    background-color: rgb(79, 89, 199);
+}
